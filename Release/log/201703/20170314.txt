@@ -1,0 +1,24 @@
+
+[13:57:49 886] DEBUG [Send]  :97 
+   3.$login,123          F           
+
+[13:57:52 215] DEBUG [Send]  :2426 
+   5.$Reset          F           
+
+[13:57:54 543] DEBUG [Send]  :4754 
+   7.$Stop,0          F           
+
+[13:57:56 871] DEBUG [Send]  :7082 
+   9.$Start,0          F           
+
+[13:57:59 199] DEBUG [Send]  :9410 
+   11.$Start,1          F           
+
+[13:58:01 262] DEBUG [Send]  :11473 
+   13.J XY 1 -1 -1          Fail           
+
+[13:58:03 355] DEBUG [Send]  :13566 
+   15.J XA 1 -1          Fail           
+
+[13:58:05 434] DEBUG [Send]  :15645 
+   17.J XY 1 -1 1          Fail           

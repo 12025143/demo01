@@ -1,0 +1,45 @@
+
+[11:08:06 450] DEBUG [Send]  :78 
+   3.$login,123          Fail           
+
+[11:08:08 793] DEBUG [Send]  :2421 
+   5.$SetMotorsOn,1          F           
+
+[11:08:11 122] DEBUG [Send]  :4750 
+   7.$Reset          Fail           
+
+[11:08:13 450] DEBUG [Send]  :7078 
+   9.$Stop,0          Fail           
+
+[11:08:15 778] DEBUG [Send]  :9406 
+   11.$Start,0          Fail           
+
+[11:08:18 106] DEBUG [Send]  :11734 
+   13.$Start,1          Fail           
+
+[11:11:41 566] DEBUG [Send]  :78 
+   3.$login,123          F           
+
+[11:11:43 910] DEBUG [Send]  :2421 
+   5.$Reset          F           
+
+[11:11:46 238] DEBUG [Send]  :4750 
+   7.$Stop,0          F           
+
+[11:11:48 567] DEBUG [Send]  :7078 
+   9.$Start,0          F           
+
+[11:11:50 910] DEBUG [Send]  :9422 
+   11.$Start,1          F           
+
+[11:11:53 239] DEBUG [Send]  :11750 
+   13.H Home          F           
+
+[11:11:55 567] DEBUG [Send]  :14078 
+   15.$Stop,0          F           
+
+[11:11:57 895] DEBUG [Send]  :16406 
+   17.$SetMotorsOff,1          F           
+
+[11:12:06 067] DEBUG [Send]  :24578 
+   19.$Stop,0          F           
