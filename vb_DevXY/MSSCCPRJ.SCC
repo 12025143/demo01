@@ -1,0 +1,18 @@
+SCC = This is a Source Code Control file.
+
+[dev_xy.sln]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/FACC_80/dev_xy
+
+[dev_xy.vbproj]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/FACC_80/dev_xy
+
+[T_Dev_xy.vbproj]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/FAIM3/F_Test/vb_DevXY
+
+[vb_DevXY.sln]
+SCC_Aux_Path = 192.168.40.240:8877:VSS-0326
+SCC_Project_Name = $/facc-elctric/FAIM3/F_Test/vb_DevXY
+
